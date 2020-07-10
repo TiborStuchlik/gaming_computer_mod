@@ -79,6 +79,12 @@
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
     "inventoryInSlotIDs": [],
+    "onRedstoneOn": {
+      "name": "TestikBlockRedstoneOn"
+    },
+    "onRedstoneOff": {
+      "name": "TestikBlockRedstoneOff"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
