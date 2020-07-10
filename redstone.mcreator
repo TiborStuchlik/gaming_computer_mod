@@ -288,6 +288,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "gaming_computer_mod"
+    },
+    {
+      "name": "GraphicCardLevel4",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphic_card_level_4"
+    },
+    {
+      "name": "GraphicCardLevel4Recipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphic_card_level_4_recipe"
+    },
+    {
+      "name": "PClevel4Recipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_4_recipe"
     }
   ],
   "variable_elements": [],
@@ -299,6 +326,7 @@
       "item.redstone.graphic_cardlevel_2": "Graphic Cardlevel 2",
       "item.redstone.cabel": "Cabel",
       "itemGroup.tabgaming_computer_mod": "Gaming Computer Mod",
+      "item.redstone.graphic_card_level_4": "Graphic Card Level 4",
       "item.redstone.hard_disk": "Hard Disk",
       "block.redstone.monitor": "Monitor",
       "block.redstone.p_clevel_4turnoff": "P Clevel 4turnoff",
