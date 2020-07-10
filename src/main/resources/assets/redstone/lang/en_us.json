@@ -1,0 +1,20 @@
+{
+  "item.redstone.display": "Display",
+  "item.redstone.empty_tube": "Empty Tube",
+  "item.redstone.graphic_cardlevel_2": "Graphic Cardlevel 2",
+  "item.redstone.cabel": "Cabel",
+  "itemGroup.tabgaming_computer_mod": "Gaming Computer Mod",
+  "item.redstone.hard_disk": "Hard Disk",
+  "block.redstone.monitor": "Monitor",
+  "block.redstone.p_clevel_4turnoff": "P Clevel 4turnoff",
+  "item.redstone.p_ccase": "PC case",
+  "item.redstone.processor": "CPU",
+  "item.redstone.key_for_key_board": "Key For Key Board",
+  "item.redstone.glue_in_tube": "Glue In Tube",
+  "item.redstone.graphic_card_level_3": "Graphic Card Level 3",
+  "block.redstone.p_clevel_4": "P Clevel 4",
+  "block.redstone.p_clevel_2": "PClevel 2",
+  "block.redstone.p_clevel_3": "P Clevel 3",
+  "block.redstone.p_clevel_1": "PClevel 1",
+  "item.redstone.graphic_card": "Graphic Card"
+}

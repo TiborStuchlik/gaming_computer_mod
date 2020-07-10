@@ -1,0 +1,334 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Monitor",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "monitor"
+    },
+    {
+      "name": "Display",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "display"
+    },
+    {
+      "name": "DisplayRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "display_recipe"
+    },
+    {
+      "name": "DisplayRecipe02",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "display_recipe_0_2"
+    },
+    {
+      "name": "GraphicCard",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphic_card"
+    },
+    {
+      "name": "PClevel1",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_1"
+    },
+    {
+      "name": "PCcase",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_ccase"
+    },
+    {
+      "name": "Processor",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "processor"
+    },
+    {
+      "name": "HardDisk",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_disk"
+    },
+    {
+      "name": "PClevel1Recipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_1_recipe"
+    },
+    {
+      "name": "PClevel2",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_2"
+    },
+    {
+      "name": "GraphicCardRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphic_card_recipe"
+    },
+    {
+      "name": "GlueRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glue_recipe"
+    },
+    {
+      "name": "GlueInTube",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glue_in_tube"
+    },
+    {
+      "name": "EmptyTube",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "empty_tube"
+    },
+    {
+      "name": "PCcaseRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_ccase_recipe"
+    },
+    {
+      "name": "GraphicCardlevel2",
+      "type": "item",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphic_cardlevel_2"
+    },
+    {
+      "name": "GraphicCardlevel2Recipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphic_cardlevel_2_recipe"
+    },
+    {
+      "name": "Cabel",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cabel"
+    },
+    {
+      "name": "CPURecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpu_recipe"
+    },
+    {
+      "name": "CabelRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cabel_recipe"
+    },
+    {
+      "name": "HardDiskRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_disk_recipe"
+    },
+    {
+      "name": "KeyForKeyBoard",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "key_for_key_board"
+    },
+    {
+      "name": "EmptyTubeRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "empty_tube_recipe"
+    },
+    {
+      "name": "PClevel2Recipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_2_recipe"
+    },
+    {
+      "name": "GraphicCardLevel3",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphic_card_level_3"
+    },
+    {
+      "name": "PClevel3",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_3"
+    },
+    {
+      "name": "GraphicCardLevel3Recipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "graphic_card_level_3_recipe"
+    },
+    {
+      "name": "PClevel3Recipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_3_recipe"
+    },
+    {
+      "name": "PClevel4",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_4"
+    },
+    {
+      "name": "PClevel4turnoff",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_4turnoff"
+    },
+    {
+      "name": "GamingComputerMod",
+      "type": "tab",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gaming_computer_mod"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.redstone.display": "Display",
+      "item.redstone.empty_tube": "Empty Tube",
+      "item.redstone.graphic_cardlevel_2": "Graphic Cardlevel 2",
+      "item.redstone.cabel": "Cabel",
+      "itemGroup.tabgaming_computer_mod": "Gaming Computer Mod",
+      "item.redstone.hard_disk": "Hard Disk",
+      "block.redstone.monitor": "Monitor",
+      "block.redstone.p_clevel_4turnoff": "P Clevel 4turnoff",
+      "item.redstone.p_ccase": "PC case",
+      "item.redstone.processor": "CPU",
+      "item.redstone.key_for_key_board": "Key For Key Board",
+      "item.redstone.glue_in_tube": "Glue In Tube",
+      "item.redstone.graphic_card_level_3": "Graphic Card Level 3",
+      "block.redstone.p_clevel_4": "P Clevel 4",
+      "block.redstone.p_clevel_2": "PClevel 2",
+      "block.redstone.p_clevel_3": "P Clevel 3",
+      "block.redstone.p_clevel_1": "PClevel 1",
+      "item.redstone.graphic_card": "Graphic Card"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "redstone",
+    "modName": "Redstone",
+    "version": "1.0.0",
+    "author": "bart, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.redstone",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}

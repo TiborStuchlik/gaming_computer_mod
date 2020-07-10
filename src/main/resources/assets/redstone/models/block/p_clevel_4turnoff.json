@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "redstone:blocks/pclevel4back",
+    "up": "redstone:blocks/pclevel4back",
+    "north": "redstone:blocks/pclevel4turnoff",
+    "east": "redstone:blocks/pclevel4right",
+    "south": "redstone:blocks/pclevel4back",
+    "west": "redstone:blocks/pclevel4right",
+    "particle": "redstone:blocks/pclevel4back"
+  }
+}

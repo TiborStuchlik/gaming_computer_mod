@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "redstone:blocks/monitorright",
+    "up": "redstone:blocks/monitortop",
+    "north": "redstone:blocks/pcfront",
+    "east": "redstone:blocks/monitortop",
+    "south": "redstone:blocks/monitortop",
+    "west": "redstone:blocks/monitortop",
+    "particle": "redstone:blocks/monitorright"
+  }
+}
