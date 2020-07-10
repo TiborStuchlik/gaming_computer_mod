@@ -1,5 +1,5 @@
 {
-  "parent": "redstone:block/testik_block",
+  "parent": "redstone:block/p_clevel_2_turn_off",
   "display": {
     "thirdperson": {
       "rotation": [
