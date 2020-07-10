@@ -326,6 +326,35 @@
       "registry_name": "p_clevel_3_turn_off"
     },
     {
+      "name": "PClevel3RedstoneOff",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_3_redstone_off",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
       "name": "PClevel3TurnOffRedstoneOn",
       "type": "procedure",
       "sortid": 40,
@@ -355,33 +384,13 @@
       }
     },
     {
-      "name": "PClevel3RedstoneOff",
-      "type": "procedure",
-      "sortid": 41,
+      "name": "PClevel2TurnOff",
+      "type": "block",
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "p_clevel_3_redstone_off",
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
+      "registry_name": "p_clevel_2_turn_off"
     }
   ],
   "variable_elements": [],
@@ -395,8 +404,9 @@
       "itemGroup.tabgaming_computer_mod": "Gaming Computer Mod",
       "item.redstone.graphic_card_level_4": "Graphic Card Level 4",
       "item.redstone.hard_disk": "Hard Disk",
-      "block.redstone.p_clevel_3_turn_off": "PC level 3 Turn Off",
+      "block.redstone.p_clevel_3_turn_off": "P Clevel 3 Turn Off",
       "block.redstone.monitor": "Monitor",
+      "block.redstone.p_clevel_2_turn_off": "P Clevel 2 Turn Off",
       "block.redstone.p_clevel_4turnoff": "P Clevel 4turnoff",
       "item.redstone.p_ccase": "PC case",
       "item.redstone.processor": "CPU",
@@ -405,7 +415,7 @@
       "item.redstone.graphic_card_level_3": "Graphic Card Level 3",
       "block.redstone.p_clevel_4": "P Clevel 4",
       "block.redstone.p_clevel_2": "PClevel 2",
-      "block.redstone.p_clevel_3": "PC level 3",
+      "block.redstone.p_clevel_3": "P Clevel 3",
       "block.redstone.p_clevel_1": "PClevel 1",
       "item.redstone.graphic_card": "Graphic Card"
     }
