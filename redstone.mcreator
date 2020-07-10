@@ -324,6 +324,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "p_clevel_3_turn_off"
+    },
+    {
+      "name": "PClevel2TurnOff",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "p_clevel_2_turn_off"
     }
   ],
   "variable_elements": [],
@@ -339,6 +348,7 @@
       "item.redstone.hard_disk": "Hard Disk",
       "block.redstone.p_clevel_3_turn_off": "P Clevel 3 Turn Off",
       "block.redstone.monitor": "Monitor",
+      "block.redstone.p_clevel_2_turn_off": "P Clevel 2 Turn Off",
       "block.redstone.p_clevel_4turnoff": "P Clevel 4turnoff",
       "item.redstone.p_ccase": "PC case",
       "item.redstone.processor": "CPU",
