@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:PClevel3"
+      "value": "CUSTOM:PClevel3TurnOff"
     },
     "name": "p_clevel_3_recipe",
     "namespace": "mod"

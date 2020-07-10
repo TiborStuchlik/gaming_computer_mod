@@ -36,7 +36,7 @@
     }
   },
   "result": {
-    "item": "redstone:p_clevel_3",
+    "item": "redstone:p_clevel_3_turn_off",
     "count": 1
   }
 }
