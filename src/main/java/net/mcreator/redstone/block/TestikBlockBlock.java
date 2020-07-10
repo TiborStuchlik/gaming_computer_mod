@@ -4,12 +4,12 @@ package net.mcreator.redstone.block;
 import net.minecraft.block.material.Material;
 
 @RedstoneModElements.ModElement.Tag
-public class PClevel3TurnOffBlock extends RedstoneModElements.ModElement {
+public class TestikBlockBlock extends RedstoneModElements.ModElement {
 
-	@ObjectHolder("redstone:p_clevel_3_turn_off")
+	@ObjectHolder("redstone:testik_block")
 	public static final Block block = null;
 
-	public PClevel3TurnOffBlock(RedstoneModElements instance) {
+	public TestikBlockBlock(RedstoneModElements instance) {
 		super(instance, 39);
 
 	}
@@ -26,14 +26,9 @@ public class PClevel3TurnOffBlock extends RedstoneModElements.ModElement {
 		public CustomBlock() {
 			super(
 
-					Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).lightValue(0));
+					Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(1f, 10f).lightValue(0));
 
-			setRegistryName("p_clevel_3_turn_off");
-		}
-
-		@Override
-		public boolean canConnectRedstone(BlockState state, IBlockReader world, BlockPos pos, Direction side) {
-			return true;
+			setRegistryName("testik_block");
 		}
 
 		@Override
