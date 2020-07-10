@@ -1,17 +1,32 @@
 
 package net.mcreator.redstone.block;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.world.storage.loot.LootContext;
+import net.minecraft.world.IBlockReader;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.Direction;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.item.BlockItem;
 import net.minecraft.block.material.Material;
+import net.minecraft.block.SoundType;
+import net.minecraft.block.BlockState;
+import net.minecraft.block.Block;
+
+import net.mcreator.redstone.itemgroup.GamingComputerModItemGroup;
+import net.mcreator.redstone.RedstoneModElements;
+
+import java.util.List;
+import java.util.Collections;
 
 @RedstoneModElements.ModElement.Tag
 public class PClevel3TurnOffBlock extends RedstoneModElements.ModElement {
-
 	@ObjectHolder("redstone:p_clevel_3_turn_off")
 	public static final Block block = null;
-
 	public PClevel3TurnOffBlock(RedstoneModElements instance) {
 		super(instance, 39);
-
 	}
 
 	@Override
@@ -20,14 +35,9 @@ public class PClevel3TurnOffBlock extends RedstoneModElements.ModElement {
 		elements.items.add(
 				() -> new BlockItem(block, new Item.Properties().group(GamingComputerModItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
-
 	public static class CustomBlock extends Block {
-
 		public CustomBlock() {
-			super(
-
-					Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).lightValue(0));
-
+			super(Block.Properties.create(Material.IRON).sound(SoundType.METAL).hardnessAndResistance(1f, 10f).lightValue(0));
 			setRegistryName("p_clevel_3_turn_off");
 		}
 
@@ -43,7 +53,5 @@ public class PClevel3TurnOffBlock extends RedstoneModElements.ModElement {
 				return dropsOriginal;
 			return Collections.singletonList(new ItemStack(this, 1));
 		}
-
 	}
-
 }

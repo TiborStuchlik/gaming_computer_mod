@@ -333,6 +333,35 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "testik_block"
+    },
+    {
+      "name": "TestikBlockRedstoneOn",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testik_block_redstone_on",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -346,6 +375,7 @@
       "itemGroup.tabgaming_computer_mod": "Gaming Computer Mod",
       "item.redstone.graphic_card_level_4": "Graphic Card Level 4",
       "item.redstone.hard_disk": "Hard Disk",
+      "block.redstone.p_clevel_3_turn_off": "P Clevel 3 Turn Off",
       "block.redstone.monitor": "Monitor",
       "block.redstone.p_clevel_4turnoff": "P Clevel 4turnoff",
       "item.redstone.p_ccase": "PC case",
@@ -354,6 +384,7 @@
       "item.redstone.glue_in_tube": "Glue In Tube",
       "item.redstone.graphic_card_level_3": "Graphic Card Level 3",
       "block.redstone.p_clevel_4": "P Clevel 4",
+      "block.redstone.testik_block": "Testik Block",
       "block.redstone.p_clevel_2": "PClevel 2",
       "block.redstone.p_clevel_3": "P Clevel 3",
       "block.redstone.p_clevel_1": "PClevel 1",
