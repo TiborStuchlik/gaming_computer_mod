@@ -6,7 +6,7 @@
   "itemGroup.tabgaming_computer_mod": "Gaming Computer Mod",
   "item.redstone.graphic_card_level_4": "Graphic Card Level 4",
   "item.redstone.hard_disk": "Hard Disk",
-  "block.redstone.p_clevel_3_turn_off": "P Clevel 3 Turn Off",
+  "block.redstone.p_clevel_3_turn_off": "PC level 3 Turn Off",
   "block.redstone.monitor": "Monitor",
   "block.redstone.p_clevel_4turnoff": "P Clevel 4turnoff",
   "item.redstone.p_ccase": "PC case",
@@ -16,7 +16,7 @@
   "item.redstone.graphic_card_level_3": "Graphic Card Level 3",
   "block.redstone.p_clevel_4": "P Clevel 4",
   "block.redstone.p_clevel_2": "PClevel 2",
-  "block.redstone.p_clevel_3": "P Clevel 3",
+  "block.redstone.p_clevel_3": "PC level 3",
   "block.redstone.p_clevel_1": "PClevel 1",
   "item.redstone.graphic_card": "Graphic Card"
 }

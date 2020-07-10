@@ -20,7 +20,7 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "P Clevel 3 Turn Off",
+    "name": "PC level 3 Turn Off",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -79,6 +79,9 @@
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
     "inventoryInSlotIDs": [],
+    "onRedstoneOn": {
+      "name": "PClevel3TurnOffRedstoneOn"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
