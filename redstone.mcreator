@@ -315,6 +315,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "p_clevel_4_recipe"
+    },
+    {
+      "name": "TestikBlock",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "testik_block"
     }
   ],
   "variable_elements": [],
@@ -336,6 +345,7 @@
       "item.redstone.glue_in_tube": "Glue In Tube",
       "item.redstone.graphic_card_level_3": "Graphic Card Level 3",
       "block.redstone.p_clevel_4": "P Clevel 4",
+      "block.redstone.testik_block": "Testik Block",
       "block.redstone.p_clevel_2": "PClevel 2",
       "block.redstone.p_clevel_3": "P Clevel 3",
       "block.redstone.p_clevel_1": "PClevel 1",
